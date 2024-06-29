@@ -7,19 +7,15 @@
         "type": "hiper"
     },
     {
-        "name": "Express ",
+        "name": "223- Mini Octavio Pinto",
         "lat": -31.3887,
         "lng": -64.2161,
         "address": "Octavio Pinto 2665",
         "type": "express"
     },
-    {
-        "name": "Express 2 ",
-        "lat": -33.3887,
-        "lng": -64.2161,
-        "address": "Octavio Pinto 3665",
-        "type": "express"
-    },
+    
+    {"name":"224 - Mini Ambrosio Olmos","lat":-31.431674,"lng":-64.191604,"address":"Ambrosio Olmos 929","type":"express"},
+
     {
         "name": "Librería",
         "lat": -32.3894,
