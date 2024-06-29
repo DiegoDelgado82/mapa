@@ -13,8 +13,10 @@
         "address": "Octavio Pinto 2665",
         "type": "express"
     },
-    
+
     {"name":"224 - Mini Ambrosio Olmos","lat":-31.431674,"lng":-64.191604,"address":"Ambrosio Olmos 929","type":"express"},
+    {"name":"24- Córdoba Barrio Jardín","lat":-31.455646,"lng":-64.165068,"address":"Bernardo O'Higgins 3765","type":"hiper"},
+
 
     {
         "name": "Librería",
