@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Hiper Córdoba Colón",
+        "lat": -31.395841,
+        "lng": -64.243528,
+        "address": "Av Colón 4880",
+        "type": "hiper"
+    },
+    {
+        "name": "Express ",
+        "lat": -31.3887,
+        "lng": -64.2161,
+        "address": "Octavio Pinto 2665",
+        "type": "express"
+    },
+    {
+        "name": "Librería",
+        "lat": -31.3894,
+        "lng": -63.2297,
+        "address": "Dirección 3",
+        "type": "maxi"
+    }
+]
