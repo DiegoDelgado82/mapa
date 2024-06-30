@@ -56,7 +56,7 @@
 {"name":"793 - Mini - San Juan","lat":-31.418014,"lng":-64.197183,"address":"San Juan 835","type":"express"},
 {"name":"813 - Mini - Colon","lat":-31.409106,"lng":-64.197696,"address":"Colón 1088","type":"express"},
 {"name":"824 - Mini - San Martin","lat":-31.242548,"lng":-64.465669,"address":"San Martin 940 - Cosquin","type":"express"},
-{"name":"825 - Mini - Sarmiento","lat":-32.720287,"lng":-68.596495,"address":"Sarmiento 5 - Tulumba","type":"express"},
+{"name":"825 - Mini - Sarmiento","lat":-31.4149,"lng":-64.5031,"address":"Sarmiento 5 - Villa Carlos Pax","type":"express"},
 {"name":"847 - Mini - Eden","lat":-31.092851,"lng":-64.481477,"address":"Eden 499 - La Falda","type":"express"},
 {"name":"853 - Mini - Colón","lat":-31.410638,"lng":-64.191883,"address":"Colón 636","type":"express"},
 {"name":"860 - Mini - Lopez y Planes","lat":-30.982338,"lng":-64.492219,"address":"Lopez y Planes 265 - La Cumbre","type":"express"},
