@@ -42,7 +42,8 @@ function addMarker(markerData) {
     const icons = {
         express: iconBase + 'express.png',
         maxi: iconBase + 'maxi.png',
-        hiper: iconBase + 'hiper.png'
+        hiper: iconBase + 'hiper.png',
+        market: iconBase + 'market.png'
     };
 
     const marker = new google.maps.Marker({
