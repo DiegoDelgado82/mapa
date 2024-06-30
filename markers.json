@@ -1,5 +1,5 @@
 [
-        {"name": "Hiper Córdoba Colón","lat": -31.395841,"lng": -64.243528,"address": "Av Colón 4880","type": "hiper"},
+        {"name":"9 - Hiper Córdoba Colón","lat": -31.395841,"lng": -64.243528,"address": "Av Colón 4880","type": "hiper"},
         {"name":"194 - Mini - Jacinto de Altolaguirre","lat":-31.383117,"lng":-64.134005,"address":"Jacinto de Altolaguirre  1679","type":"express"},
         {"name":"223 - Mini - Octavio Pinto","lat":-31.3887,"lng":-64.2161,"address":"Octavio Pinto 2665","type":"express"},
         {"name":"224 - Mini - Ambrosio Olmos","lat":-31.431865,"lng":-64.191609,"address":"Ambrosio Olmos 929","type":"express"},
@@ -58,12 +58,12 @@
         {"name":"865 - Mini - San Martin","lat":-31.23926,"lng":-64.46459,"address":"San Martin 623 - Cosquin","type":"express"},
         {"name":"867 - Mini - 9 de Julio","lat":-31.090871,"lng":-64.485344,"address":"9 de Julio 156 - La Falda","type":"express"},
         {"name":"873 - Mini - Santiago Derqui","lat":-31.425429,"lng":-64.187617,"address":"Santiago Derqui 33","type":"express"},
-        {"name":"24- Córdoba Barrio Jardín","lat":-31.455445,"lng":-64.165142,"address":"Bernardo O'Higgins 3765","type":"hiper"},
-        {"name":"50- Córdoba Recta Martinolli","lat":-31.346394,"lng":-64.270008,"address":"Recta Martinolli 7850","type":"hiper"},
-        {"name":"54- Córdoba Villa Allende","lat":-31.2997,"lng":-64.2765,"address":"Río de Janeiro 1787","type":"hiper"},
+        {"name":"24 - Córdoba Barrio Jardín","lat":-31.455445,"lng":-64.165142,"address":"Bernardo O'Higgins 3765","type":"hiper"},
+        {"name":"50 - Córdoba Recta Martinolli","lat":-31.346394,"lng":-64.270008,"address":"Recta Martinolli 7850","type":"hiper"},
+        {"name":"54 - Córdoba Villa Allende","lat":-31.2997,"lng":-64.2765,"address":"Río de Janeiro 1787","type":"hiper"},
         {"name":"516 - Maxi Cacheuta","lat":-31.4608,"lng":-64.2151,"address":"Cacheuta 4509","type":"maxi"},
         {"name":"707 -  Maxi Juan B Justo","lat":-31.3680,"lng":-64.1776,"address":"Av Juan B. Justo 4775","type":"maxi"},
-        {"name":"Market - Río Cuarto","lat":-33.1225,"lng":-64.3497,"address":"Sobremonte 902, Río Cuarto","type":"market"}
+        {"name":"xx - Market Río Cuarto","lat":-33.1225,"lng":-64.3497,"address":"Sobremonte 902, Río Cuarto","type":"market"}
 
            
 ]
