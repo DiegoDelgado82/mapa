@@ -3,15 +3,39 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Plano Digital con Google Maps</title>
+    <title>Plano Digital tiendas Carrefour</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <link rel="stylesheet" href="styles.css">
 </head>
+<style>
+    .icon-container {
+        display: flex;
+        align-items: center;
+    }
+    .icon-container img {
+        width: 50px; /* Ajusta el tamaño según sea necesario */
+        height: auto;
+        margin-right: 10px;
+    }
+</style>
 <body>
     <div class="container">
-        <h1 class="text-center my-4">Plano Digital de Tiendas </h1>
+        <h1 class="text-center my-4">Plano Digital de Tiendas Carrefour </h1>
         <div id="map" class="mb-4"></div>
-        
+        <div class="mb-4 d-flex container d-flex justify-content-center">
+            <div class="icon-container mr-3">
+                <img src="./icons/express.png" alt="express">
+                <h4 class="mb-0">Express</h4>
+            </div>
+            <div class="icon-container mr-3">
+                <img src="./icons/hiper.png" alt="hiper">
+                <h4 class="mb-0">Hiper</h4>
+            </div>
+            <div class="icon-container">
+                <img src="./icons/maxi.png" alt="maxi">
+                <h4 class="mb-0">Maxi</h4>
+            </div>
+        </div>
     </div>
 
     <script src="script.js"></script>
