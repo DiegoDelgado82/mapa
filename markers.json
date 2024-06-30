@@ -61,9 +61,9 @@
         {"name":"24 - Córdoba Barrio Jardín","lat":-31.455445,"lng":-64.165142,"address":"Bernardo O'Higgins 3765","type":"hiper"},
         {"name":"50 - Córdoba Recta Martinolli","lat":-31.346394,"lng":-64.270008,"address":"Recta Martinolli 7850","type":"hiper"},
         {"name":"54 - Córdoba Villa Allende","lat":-31.2997,"lng":-64.2765,"address":"Río de Janeiro 1787","type":"hiper"},
-        {"name":"516 - Maxi Cacheuta","lat":-31.4608,"lng":-64.2151,"address":"Cacheuta 4509","type":"maxi"},
+        {"name":"504 - Maxi Cacheuta","lat":-31.4608,"lng":-64.2151,"address":"Cacheuta 4509","type":"maxi"},
         {"name":"707 -  Maxi Juan B Justo","lat":-31.3680,"lng":-64.1776,"address":"Av Juan B. Justo 4775","type":"maxi"},
-        {"name":"xx - Market Río Cuarto","lat":-33.1225,"lng":-64.3497,"address":"Sobremonte 902, Río Cuarto","type":"market"}
+        {"name":"119 - Market Río Cuarto","lat":-33.1225,"lng":-64.3497,"address":"Sobremonte 902, Río Cuarto","type":"market"}
 
            
 ]
